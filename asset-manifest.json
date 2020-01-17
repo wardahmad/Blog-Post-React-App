@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wardahmad/Blog-Post-React-App/static/css/main.9679c6b3.chunk.css",
+    "main.js": "/wardahmad/Blog-Post-React-App/static/js/main.23e52e34.chunk.js",
+    "main.js.map": "/wardahmad/Blog-Post-React-App/static/js/main.23e52e34.chunk.js.map",
+    "runtime-main.js": "/wardahmad/Blog-Post-React-App/static/js/runtime-main.2d782823.js",
+    "runtime-main.js.map": "/wardahmad/Blog-Post-React-App/static/js/runtime-main.2d782823.js.map",
+    "static/js/2.e6f8461b.chunk.js": "/wardahmad/Blog-Post-React-App/static/js/2.e6f8461b.chunk.js",
+    "static/js/2.e6f8461b.chunk.js.map": "/wardahmad/Blog-Post-React-App/static/js/2.e6f8461b.chunk.js.map",
+    "index.html": "/wardahmad/Blog-Post-React-App/index.html",
+    "precache-manifest.79b32c3c0d2b1c10650167c4dbf0fd06.js": "/wardahmad/Blog-Post-React-App/precache-manifest.79b32c3c0d2b1c10650167c4dbf0fd06.js",
+    "service-worker.js": "/wardahmad/Blog-Post-React-App/service-worker.js",
+    "static/css/main.9679c6b3.chunk.css.map": "/wardahmad/Blog-Post-React-App/static/css/main.9679c6b3.chunk.css.map",
+    "static/js/2.e6f8461b.chunk.js.LICENSE": "/wardahmad/Blog-Post-React-App/static/js/2.e6f8461b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d782823.js",
+    "static/js/2.e6f8461b.chunk.js",
+    "static/css/main.9679c6b3.chunk.css",
+    "static/js/main.23e52e34.chunk.js"
+  ]
+}
